@@ -1,4 +1,4 @@
-variable "extentions" {
+variable "extensions" {
   type = object({
     name                 = string,
     virtual_machine_id   = string,
