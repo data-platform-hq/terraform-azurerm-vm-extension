@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.0.0...v1.0.1) (2023-07-25)
+
+
+### Bug Fixes
+
+* resource ([916accd](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/916accd0d4014a88dea6c73feba247ae631d39ef))
+* var name ([9cfa9ec](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/9cfa9ecb283f1dda272a19f89d75b0401e0f0ea9))
+
 # 1.0.0 (2023-07-12)
 
 
