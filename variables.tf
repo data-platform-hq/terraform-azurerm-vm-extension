@@ -6,6 +6,7 @@ variable "extensions" {
     type                 = optional(string, "CustomScript"),
     type_handler_version = optional(string, "2.0"),
     settings             = optional(string),
+    protected_settings   = optional(string),
     tags                 = optional(map(any))
   })
   description = "Objects to configure extentions for virtual machine"
