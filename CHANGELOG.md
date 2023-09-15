@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.0.1...v1.1.0) (2023-09-15)
+
+
+### Features
+
+* added protected settings ([7f40c84](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/7f40c84f938681c4a8dab84531604a8070dd498a))
+* added protected_settings ([4f91d2e](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/4f91d2eac7120b28909a95a76cc2e73a84934be0))
+* added protected_settings ([e949ba9](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/e949ba9d46f69178d1f87f91470abc8eb863b9c3))
+
 ## [1.0.1](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.0.0...v1.0.1) (2023-07-25)
 
 
