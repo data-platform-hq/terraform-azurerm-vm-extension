@@ -5,5 +5,6 @@ resource "azurerm_virtual_machine_extension" "this" {
   type                 = var.extensions.type
   type_handler_version = var.extensions.type_handler_version
   settings             = var.extensions.settings
+  protected_settings   = var.extensions.protected_settings
   tags                 = var.extensions.tags
 }
