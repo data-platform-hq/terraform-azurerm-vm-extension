@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.1.0...v1.2.0) (2024-09-10)
+
+
+### Bug Fixes
+
+* added security KICS scan action ([9903376](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/9903376d1815fb127bf6f7555a7a62cff30ba87e))
+* replaced pre-commit repo docs creation/update by GH Actions ([3c22646](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/3c22646a0c7f4fafbc96bfd0c78e47c75e42fa5d))
+
+
+### Features
+
+* upgrade to AzureRM v4 ([5f6c7d4](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/5f6c7d4f89a0648ab269ab12efae7a9f38a56dc5))
+
 # [1.1.0](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.0.1...v1.1.0) (2023-09-15)
 
 
