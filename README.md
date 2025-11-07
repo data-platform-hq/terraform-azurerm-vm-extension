@@ -58,7 +58,7 @@ No modules.
 
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
-| <a name="input_extensions"></a> [extensions](#input\_extensions) | Objects to configure extentions for virtual machine | <pre>object({<br>    name                 = string,<br>    virtual_machine_id   = string,<br>    publisher            = optional(string, "Microsoft.Azure.Extensions"),<br>    type                 = optional(string, "CustomScript"),<br>    type_handler_version = optional(string, "2.0"),<br>    settings             = optional(string),<br>    protected_settings   = optional(string),<br>    tags                 = optional(map(any))<br>  })</pre> | n/a | yes |
+| <a name="input_extensions"></a> [extensions](#input\_extensions) | Objects to configure extentions for virtual machine | <pre>object({<br/>    name                 = string,<br/>    virtual_machine_id   = string,<br/>    publisher            = optional(string, "Microsoft.Azure.Extensions"),<br/>    type                 = optional(string, "CustomScript"),<br/>    type_handler_version = optional(string, "2.0"),<br/>    settings             = optional(string),<br/>    protected_settings   = optional(string),<br/>    tags                 = optional(map(any))<br/>  })</pre> | n/a | yes |
 
 ## Outputs
 
