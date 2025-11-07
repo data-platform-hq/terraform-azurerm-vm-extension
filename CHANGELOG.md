@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.2.0...v1.3.0) (2025-11-07)
+
+
+### Features
+
+* upgrade Terraform required_version to v1.3 ([5cfb020](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/commit/5cfb020d2c71a2999d0c196d33f349807fd725ae))
+
 # [1.2.0](https://github.com/data-platform-hq/terraform-azurerm-vm-extension/compare/v1.1.0...v1.2.0) (2024-09-10)
 
 
